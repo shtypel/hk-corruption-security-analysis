@@ -41,6 +41,6 @@
 
 ---
 
-## 📂 Файлы проекта
+## Файлы проекта
 - [Отчёт (PDF)](corruption-security-analysis_regression.pdf)  
 - [Код (R)](corruption-security-analysis_regression.R)  
